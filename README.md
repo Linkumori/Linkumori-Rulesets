@@ -8,7 +8,7 @@ This repository contains the ruleset for **Linkumori**, designed to sanitize URL
 - **Efficient and Lightweight**: Applies rules seamlessly without impacting performance.
 
 ## License
-This project is licensed under the Linkumori Public License (LPL) v5.0 **. For details, see the [LICENSE](LICENSE) file.
+This project is licensed under the Linkumori Public License (LPL) v6.0 **. For details, see the [LICENSE](LICENSE) file.
 
 **Copyright © 2025 Subham Mahesh**
 
@@ -19,7 +19,7 @@ Contributions are welcome to improve the ruleset or extend its coverage. To cont
 2. Create a new branch for your changes.
 3. Submit a pull request describing your modifications.
 
-All contributions submitted to this project will be governed by the Linkumori Public License (LPL) v5.0. By submitting your changes, you agree to license your contributions under these terms.
+All contributions submitted to this project will be governed by the Linkumori Public License (LPL) v6.0. By submitting your changes, you agree to license your contributions under these terms.
 
 ## About Linkumori
 Linkumori is a privacy-focused project aimed at delivering cleaner, tracker-free URLs for a safer web experience. For more information, visit [Linkumori Website](https://www.linkumori.com).
